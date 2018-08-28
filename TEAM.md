@@ -8,7 +8,7 @@ Passionate about cryptocurrency since year.
 
 Bobun
 Role: [Designer/developper Web/administrator]
-Exeperience: 12 years in webdesign, advertising and feature film.
+Experience: 12 years in webdesign, advertising and feature film.
 Business man from 5 years.
 Crypto enthousiastic
 
