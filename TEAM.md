@@ -8,12 +8,17 @@ Passionate about cryptocurrency since year.
 
 Bobun
 Role: [Designer/developper Web/administrator]
-12 years experience in webdesign, advertising and feature film.
+Exeperience: 12 years in webdesign, advertising and feature film.
 Business man from 5 years.
 Crypto enthousiastic
 
 Loracle
 Role: [Manager/administrator]
+Experience: in scientific research and teaching.
+Science Engineer.
+Human management.
+Passionate about the web and the world of cryptocurrencies for several years.
+Convinced that cryptocurrencies open us to the world of tomorrow.
 
 Tony Campana
 Role: [Manager/administrator]
