@@ -14,7 +14,7 @@ Crypto enthousiastic
 
 Loracle
 Role: [Manager/administrator]
-Experience: in scientific research and teaching.
+Experience: in scientific research.
 Science Engineer.
 Human management.
 Passionate about the web and the world of cryptocurrencies for several years.
