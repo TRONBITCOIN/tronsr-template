@@ -1,18 +1,18 @@
 ## Founder
 
 Name: [SatoshiNakamaTron]
-Role: [Manager]
+Role: [Founder]
 
 ## Team Member 1
 
-Name: [BoBun]
-Role: [Manager]
+Name: [Bobun]
+Role: [Designer/developper Web]
 
 ## Team Member 2
 
 Name: [Loracle]
-Role: [Manager]
+Role: [Manager/administrator]
 ## Team Member 3
 
-Name: [Tony Montana]
-Role: [Manager]
+Name: [Tony Campana]
+Role: [Manager/administrator]
