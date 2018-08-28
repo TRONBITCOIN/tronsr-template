@@ -1,1 +1,1 @@
-Describe the plan to support the community
+Once we are SR we intend to offer the community of bounty by offering our chips + TRX to create an ecosystem around our tokens, the information will be dictated on our blog http://www.tronbitcoin.io/index.php / blog / and twitter https://twitter.com/TRONBITCOIN
