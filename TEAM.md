@@ -1,18 +1,13 @@
-## Founder
 
-Name: [@SatoshiNakamaTron]
+
+[@SatoshiNakamaTron]
 Role: [Founder]
 
-## Team Member 1
-
-Name: [@Bobun]
+[@Bobun]
 Role: [Designer/developper Web/administrator]
 
-## Team Member 2
-
-Name: [@Loracle]
+[@Loracle]
 Role: [Manager/administrator]
-## Team Member 3
 
-Name: [@Tony Campana]
+[@Tony Campana]
 Role: [Manager/administrator]
