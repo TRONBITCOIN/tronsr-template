@@ -1,13 +1,13 @@
 
 
-[@SatoshiNakamaTron]
+SatoshiNakamaTron
 Role: [Founder]
 
-[@Bobun]
+Bobun
 Role: [Designer/developper Web/administrator]
 
-[@Loracle]
+Loracle
 Role: [Manager/administrator]
 
-[@Tony Campana]
+Tony Campana
 Role: [Manager/administrator]
