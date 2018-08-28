@@ -1,14 +1,19 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [SatoshiNakamaTron]
+Role: [Founder]
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: [Bobun]
+Role: [Designer/developper Web]
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: [Loracle]
+Role: [Manager/administrator]
+## Team Member 3
+
+Name: [Tony Campana]
+Role: [Manager/administrator]
+
