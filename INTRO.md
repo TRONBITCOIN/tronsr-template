@@ -1,13 +1,13 @@
 We are a team of several members and from day to day we grow up.
 
-The community is involved with more than +200 members.
+More than 200 members are involved in the community
 
-Tronbitcoin Foundation promotes an valuable selection of unique tokens on the Tron platform. 
+Tronbitcoin Foundation promotes a valuable selection of unique tokens on the Tron platform. 
 
-Each tokens of our collection will be use in an ecosystem with an application for every members
+Each token will be used of our collection in a ecosystem with an application for every members
 
 
-Several awards will be offered to creative and development members who will help create an ecosystem for the Tronbitcoin Foundation once we are elected SR.
+Several awards will be offered to creative and development each member  who will help create an ecosystem for the Tronbitcoin Foundation once we are elected SR.
 
 and much more to discover!
 
