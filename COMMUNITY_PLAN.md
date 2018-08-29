@@ -1,5 +1,3 @@
-Each token will be used of our collection in a ecosystem with an application for each member.
-
 
 REWARDS and Airdrops :
 Example 
