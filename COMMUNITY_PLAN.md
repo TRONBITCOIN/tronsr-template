@@ -11,7 +11,13 @@ We will offer a lot of 15,000 TRX for voters to share that TRONBITCOIN will have
 
 1TRX vote = 0.0001TRX donated by the TRONBITCOIN foundation.
 
-The donation will take place every month of the anniversary of the moment that the foundation TRONBITCOIN remains in the TOP SR
+The donation will take place every month of the anniversary of the moment that the foundation TRONBITCOIN remains in the TOP SR.
+We will offer a lot of 15,000 TRX for voters to share that TRONBITCOIN will have collected 150 million votes.
+
+2nd month anniversary 300 Million votes= 30,000 TRX donated voters TRONBITCOIN.
+
+3rd month anniversary 400 Million votes= 40,000 TRX donated voters TRONBITCOIN.
+...
 
 +(lot of tokens from our collection + TRX) soon as TRONBITCOIN.IO reaches the rank of SR, we will realize the first BOUNTY program for creators,developers.
 
