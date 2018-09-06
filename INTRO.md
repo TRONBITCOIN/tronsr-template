@@ -1,6 +1,6 @@
 We are a team of several members and from day to day we grow up.
 
-More than 200 members are involved in the community
+More than +300 members are involved in the community
 
 Tronbitcoin Foundation promotes a valuable selection of unique tokens on the Tron platform. 
 
