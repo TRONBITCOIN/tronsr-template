@@ -1,8 +1,14 @@
 Try your luck every day to win prizes with our wheel on http://www.tronbitcoin.io/
 
+You can vote for tronbitcoin to be listed on the future DEX NUMEX which offers 75% of dividends in BTC.
+https://numex.exchange/vote/
+If you want to see tronbitcoin listed in January, we must be in the top 10.
+
+TRONBITCOIN will also soon be listed on an online payment system.
+
 We are a team of several members and from day to day we grow up.
 
-More than +300 members are involved in the community
+More than +460 members are involved in the community
 
 Tronbitcoin Foundation promotes a valuable selection of unique tokens on the Tron platform. 
 
